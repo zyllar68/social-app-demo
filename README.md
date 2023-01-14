@@ -2,6 +2,8 @@
 
 <- Back to [previous lesson](https://github.com/mongodb-developer/social-app-demo/tree/9-lesson)
 
+--
+
 ## Goal
 
 The goal of this lesson is to deploy our completed project to Vercel.
